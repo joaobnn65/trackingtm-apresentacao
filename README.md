@@ -66,7 +66,7 @@ Guia completo de uso: [Guia_TrackingTM.pdf](Guia_TrackingTM.pdf)
 
 ## Criador
 
-**João Gabriel Dal Vesco Smanitto**, idealização e desenvolvimento.
+**João Gabriel Dal Vesco Smaniotto**, idealização e desenvolvimento.
 
 - E-mail: [jgdalvesco@gmail.com](mailto:jgdalvesco@gmail.com)
 - WhatsApp: [+55 (49) 98505-6650](https://wa.me/5549985056650)
@@ -78,4 +78,4 @@ Dúvidas, sugestões ou interesse em usar o sistema no seu torneio ou federaçã
 O TrackingTM é um projeto independente e **não é um site oficial da CBTM**. Os pontos seguem os regulamentos de rating e ranking; em caso de diferença, vale o oficial da CBTM.
 
 Este repositório apresenta o sistema; o código-fonte não é público.
-© 2026 João Gabriel Dal Vesco Smanitto. Todos os direitos reservados.
+© 2026 João Gabriel Dal Vesco Smaniotto. Todos os direitos reservados.
